@@ -10,4 +10,4 @@ Our team of experts curates a wealth of cutting-edge insights and practical tips
 At EnergySmart Solutions, we believe that sustainable living and thriving businesses go hand in hand. By embracing energy-efficient practices, you not only protect the environment but also bolster your bottom line. Join us on this transformative journey towards a future where energy is harnessed wisely, resources are conserved thoughtfully, and both homes and businesses thrive harmoniously with our planet. Let's embark on this exciting adventure together, reshaping the way we consume energy and creating a brighter, greener tomorrow for all.
 Training to code, project repository
 # Screenshot
-![screenshotimg](Images/image0.jpeg)
+![screenshotimg](image0.jpeg)
